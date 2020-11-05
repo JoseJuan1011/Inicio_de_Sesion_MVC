@@ -34,4 +34,10 @@
 			<version>2.4</version>
 		</dependency>
 	</dependencies>
+	
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<maven.compiler.source>Inicio_de_Sesion_MVC</maven.compiler.source>
+		<exec.mainClass>dad.javafx.InicioSesionMVC.App.MainApp</exec.mainClass>
+	</properties>
 </project>
